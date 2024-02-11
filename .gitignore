@@ -1,0 +1,33 @@
+# Python
+*.py[cod]
+*_pycache*
+.ipynb_checkpoints
+*.log
+*.csv
+*.json
+
+# Environment Variables
+.env
+
+# OS
+.DS_Store
+
+# IDEs
+.vscode
+.idea/
+
+# Others
+__pycache__/
+*.py[cod]
+*$py.class
+*~
+*.bak
+*.swp
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+assortment-venv/
+prophet-env/
