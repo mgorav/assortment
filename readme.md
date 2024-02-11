@@ -1,6 +1,8 @@
 # Detailed Assortment Planning Solution for Retail Company
 
 This document provides an in-depth overview of a comprehensive assortment planning solution designed for a retail company, leveraging advanced machine learning techniques and mathematical models to optimize product offerings across stores and channels.
+![assortment.png](assortment.png)
+
 
 ## Overview
 
