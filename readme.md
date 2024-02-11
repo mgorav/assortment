@@ -63,6 +63,16 @@ graph TD;
     E -->|Assortment API| F[Retail Stores];
     E -->|Forecast API| G[Inventory Management];
     E -->|Allocation API| H[Supply Chain];
+
+    I[Generative AI] --> J[Product Design];
+    I --> K[Trend Forecasting];
+    I --> L[Customer Experience];
+    I --> M[Inventory Optimization];
+
+    J --> D;
+    K --> D;
+    L --> D;
+    M --> D;
 ```
 
 This  diagram represents the high-level architecture of the assortment planning solution, illustrating the flow from data sources through processing, machine learning model application, to actionable outputs via APIs.
